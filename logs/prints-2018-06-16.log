@@ -1,0 +1,9 @@
+sa16:37:17.282 [main] ERROR alpha.Test1 - Button is not displayed
+16:37:17.285 [main] FATAL alpha.Test1 - Button is missing
+16:38:24.395 [main] DEBUG alpha.Test1 - I have clicked on the button.
+16:38:24.398 [main] INFO  alpha.Test1 - Button is displayed
+16:38:24.398 [main] ERROR alpha.Test1 - Button is not displayed
+16:38:24.398 [main] FATAL alpha.Test1 - Button is missing
+16:39:21.969 [main] DEBUG beta.Test2 - I am debugging.
+16:39:21.972 [main] INFO  beta.Test2 - Object is present
+16:39:21.972 [main] ERROR beta.Test2 - Object is not present
